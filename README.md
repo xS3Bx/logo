@@ -1,0 +1,4 @@
+logo
+====
+
+Manjaro Logos
